@@ -1,6 +1,6 @@
 # CHANGELOG
 
-This file lists all the updates made to our (Title).
+This file lists all the updates made to our (Title). Not Available yet
 
 ---
 
