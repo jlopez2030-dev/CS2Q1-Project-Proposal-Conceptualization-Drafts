@@ -18,6 +18,156 @@ A multi-tool study assistant designed to help fellow scholars while studying. It
 7. Follow the instructions seen after running the Multi-tool Study Assistant App.
 
 ## Example Output
+==== MULTI-TOOL STUDY ASSISTANT APP ====
+  -- Tool Categories --
+  1. Unit Converter
+  2. Timer
+  3. Exit
+Choose a category (1-3): 
+1
+
+==========================
+  --- Unit Converter ---
+  1. Length
+  2. Exit
+Choose a category (1-2): 
+1
+Enter the value of your unit:
+1000
+
+|mm (millimeter),
+|cm (centimeter),
+|in (inch),
+|ft (foot),
+|yd (yard),
+|m (meter),
+|km (kilometer),
+|mi (mile)
+ 
+From unit:
+cm
+
+|mm (millimeter),
+|cm (centimeter),
+|in (inch),
+|ft (foot),
+|yd (yard),
+|m (meter),
+|km (kilometer),
+|mi (mile)
+ 
+To unit:
+yd
+
+1000 cm is 10.936132983377078 yd
+Do you want to use the app again?
+ 1. Yes
+ 2. No
+1
+
+==== MULTI-TOOL STUDY ASSISTANT APP ====
+  -- Tool Categories --
+  1. Unit Converter
+  2. Timer
+  3. Exit
+Choose a category (1-3): 
+2
+
+ --- Timer ---
+How many hours?
+0
+
+How many minutes?
+0
+
+How many seconds?
+40
+Timer ends in 00:00:40 (HH:MM:SS)
+00:00:40
+
+00:00:39
+
+00:00:38
+
+00:00:37
+
+00:00:36
+
+00:00:35
+
+00:00:34
+
+00:00:33
+
+00:00:32
+
+00:00:31
+
+00:00:30
+
+00:00:29
+
+00:00:28
+
+00:00:27
+
+00:00:26
+
+00:00:25
+
+00:00:24
+
+00:00:23
+
+00:00:22
+
+00:00:21
+
+00:00:20
+
+00:00:19
+
+00:00:18
+
+00:00:17
+
+00:00:16
+
+00:00:15
+
+00:00:14
+
+00:00:13
+
+00:00:12
+
+00:00:11
+
+00:00:10
+
+00:00:09
+
+00:00:08
+
+00:00:07
+
+00:00:06
+
+00:00:05
+
+00:00:04
+
+00:00:03
+
+00:00:02
+
+00:00:01
+
+
+Time's up!
+Do you want to use the app again?
+ 1. Yes
+ 2. No
 
 
 ## Contributors
