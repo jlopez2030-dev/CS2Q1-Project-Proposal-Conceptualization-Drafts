@@ -1,30 +1,11 @@
 # CHANGELOG
 
-This file lists all the updates made to our (Title). Not Available yet
-
----
-
-## Version v1.2.0 – August 10, 2025
-- 
-- 
-- 
-
----
-
-## Version v1.1.0 – August 30, 2025
-- 
-- 
-
----
-
-## Version v1.0.1 – July 22, 2025
-- 
-- 
+This file lists all the updates made to our Multi-tool Study Assistant App.
 
 ---
 
 ## Version v1.0.0 – July 15, 2025
-- 
-- 
--
--
+- First version of the app
+- User can:
+  - Convert units into desired units
+  - Set up a timer for study
