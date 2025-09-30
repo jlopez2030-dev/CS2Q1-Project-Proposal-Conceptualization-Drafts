@@ -1,4 +1,4 @@
-# Project Title Multi-tool Study Assistant
+# Project Title: Multi-tool Study Assistant
 
 ## Project Description 
 A multi-tool study assistant designed to help fellow scholars while studying. It also manages your activities by using the to-do list and prioritizes the activities that are needed as soon as possible.
