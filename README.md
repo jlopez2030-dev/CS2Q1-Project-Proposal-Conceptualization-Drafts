@@ -22,8 +22,10 @@ A multi-tool study assistant designed to help fellow scholars while studying. It
   -- Tool Categories --
   1. Unit Converter
   2. Timer
-  3. Exit
-Choose a category (1-3): 
+  3. To-Do List
+  4. Calculator
+  5. Exit
+Choose a category (1-5): 
 1
 
 ==========================
@@ -69,8 +71,10 @@ Do you want to use the app again?
   -- Tool Categories --
   1. Unit Converter
   2. Timer
-  3. Exit
-Choose a category (1-3): 
+  3. To-Do List
+  4. Calculator
+  5. Exit
+Choose a category (1-5):  
 2
 
  --- Timer ---
@@ -169,6 +173,93 @@ Do you want to use the app again?
  1. Yes
  2. No
 
+==== MULTI-TOOL STUDY ASSISTANT APP ====
+  -- Tool Categories --
+  1. Unit Converter
+  2. Timer
+  3. To-Do List
+  4. Calculator
+  5. Exit
+Choose a category (1-5): 
+3
+
+==========================
+  --- TO-DO LIST ---
+  1. Add Task
+  2. View Tasks
+  3. Mark Task as Done
+  4. Delete Task
+  5. Exit
+Choose an option (1-5):
+1
+
+Enter a new task:
+Finish Math Homework
+Task added successfully!
+
+--- TO-DO LIST ---
+Choose an option (1-5):
+1
+
+Enter a new task:
+Review Science Notes
+Task added successfully!
+
+--- TO-DO LIST ---
+Choose an option (1-5):
+2
+
+Your Tasks:
+1. Finish Math Homework - ❌ Not Done
+2. Review Science Notes - ❌ Not Done
+
+--- TO-DO LIST ---
+Choose an option (1-5):
+3
+
+Enter task number to mark as done:
+1
+Task marked as done!
+
+Your Tasks:
+1. Finish Math Homework - ✔ Done
+2. Review Science Notes - ❌ Not Done
+
+Do you want to use the app again?
+ 1. Yes
+ 2. No
+
+==== MULTI-TOOL STUDY ASSISTANT APP ====
+  -- Tool Categories --
+  1. Unit Converter
+  2. Timer
+  3. To-Do List
+  4. Calculator
+  5. Exit
+Choose a category (1-5): 
+4
+
+
+==========================
+  --- CALCULATOR ---
+  1. Addition
+  2. Subtraction
+  3. Multiplication
+  4. Division
+  5. Exit
+Choose an operation (1-5):
+1
+
+Enter first number:
+25
+Enter second number:
+15
+
+Result: 40.0
+
+Do you want to use the app again?
+ 1. Yes
+ 2. No
 
 ## Contributors
 - Student 1: Isabeau Mithi Salibad (Debugger and Tester)
