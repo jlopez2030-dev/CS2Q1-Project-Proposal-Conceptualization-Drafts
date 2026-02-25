@@ -3,9 +3,9 @@ A multi-tool study assistant designed to help fellow scholars while studying.
 
 ## Group Information
   Submitted by:
-  Mary Hera S. Carmona
-  Jake Lopez
-  Isabeau Mithi S. Salibad
+  -Mary Hera S. Carmona
+  -Jake Lopez
+  -Isabeau Mithi S. Salibad
 
 ## Project Description
   The Multi-Tool Study Assistant App is a command-line Python application designed to help students with everyday academic tasks.
@@ -17,7 +17,38 @@ A multi-tool study assistant designed to help fellow scholars while studying.
 
 ## Features
 
-- Unit Converter
+1. Unit Converter
+  -Supports three categories:
+   -Length Converter
+      -Units supported:
+          mm (millimeter)
+          cm (centimeter)
+          in (inch)
+          ft (foot)
+          yd (yard)
+          m (meter)
+          km (kilometer)
+          mi (mile)
+   - Weight Converter
+      -Units supported:
+          mg (milligram)
+          g (gram)
+          oz (ounce)
+          lb (pound)
+          kg (kilogram)
+          ton (metric ton)
+    - Capacity Converter
+        -Units supported:
+          ml (milliliter)
+          l (liter)
+          kl (kiloliter)
+          tsp (teaspoon)
+          tbsp (tablespoon)
+          cup
+          pt (pint)
+          qt (quart)
+          gal (gallon)
+
 - Converts units into desired units
 - Sets up a timer to study and to time manage
 
