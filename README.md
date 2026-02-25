@@ -1,10 +1,23 @@
-# Project Title: Multi-tool Study Assistant
+# Project Title: Multi-tool Study Assistant App
+A multi-tool study assistant designed to help fellow scholars while studying. 
 
-## Project Description 
-A multi-tool study assistant designed to help fellow scholars while studying. It also manages your activities by using the to-do list and prioritizes the activities that are needed as soon as possible.
+## Group Information
+  Submitted by:
+  Mary Hera S. Carmona
+  Jake Lopez
+  Isabeau Mithi S. Salibad
+
+## Project Description
+  The Multi-Tool Study Assistant App is a command-line Python application designed to help students with everyday academic tasks.
+  It integrates four major tools into one system:
+ - Unit Converter
+ - Timer
+ - To-Do List
+ - Simple Calculator
 
 ## Features
 
+- Unit Converter
 - Converts units into desired units
 - Sets up a timer to study and to time manage
 
