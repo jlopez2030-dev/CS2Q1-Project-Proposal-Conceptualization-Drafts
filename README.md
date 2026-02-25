@@ -18,39 +18,59 @@ A multi-tool study assistant designed to help fellow scholars while studying.
 ## Features
 
 1. Unit Converter
-  -Supports three categories:
-     -Length Converter
-      -Units supported:
-          -mm (millimeter)
-          -cm (centimeter)
-          -in (inch)
-          -ft (foot)
-          -yd (yard)
-          -m (meter)
-          -km (kilometer)
-          -mi (mile)
-   - Weight Converter
-      -Units supported:
-          -mg (milligram)
-          -g (gram)
-          -oz (ounce)
-          -lb (pound)
-          -kg (kilogram)
-          -ton (metric ton)
-    - Capacity Converter
-        -Units supported:
-          -ml (milliliter)
-          -l (liter)
-          -kl (kiloliter)
-          -tsp (teaspoon)
-          -tbsp (tablespoon)
-          -cup
-          -pt (pint)
-          -qt (quart)
-          -gal (gallon)
+Supports three categories:
+-Length Converter
+-Units supported:
+-mm (millimeter)
+-cm (centimeter)
+-in (inch)
+-ft (foot)
+-yd (yard)
+-m (meter)
+-km (kilometer)
+-mi (mile)
+-Weight Converter
+-Units supported:
+-mg (milligram)
+-g (gram)
+-oz (ounce)
+-lb (pound)
+-kg (kilogram)
+-ton (metric ton)
+-Capacity Converter
+-Units supported:
+-ml (milliliter)
+-l (liter)
+-kl (kiloliter)
+-tsp (teaspoon)
+-tbsp (tablespoon)
+-cup
+-pt (pint)
+-qt (quart)
+-gal (gallon)
 
-- Converts units into desired units
-- Sets up a timer to study and to time manage
+2. Timer
+-Accepts hours, minutes, and seconds
+-Converts time into total seconds
+-Displays real-time countdown (HH:MM:SS format)
+-Notifies when time is up
+-Converts units into desired units
+
+3.To-Do List
+-Add tasks
+-View tasks
+-Remove tasks
+-Dynamic indexing using enumerate()
+-⚠ Note: Tasks are session-based and will reset when the program closes.
+
+4.Simple Calculator
+-Supports:
+-Addition
+-Subtraction
+-Multiplication
+-Division
+-Includes protection against division by zero.
+
 
 ## How to Run the Program
 
