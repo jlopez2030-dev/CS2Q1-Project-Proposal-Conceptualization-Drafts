@@ -1,11 +1,5 @@
 # Project Title: Multi-tool Study Assistant App
-A multi-tool study assistant designed to help fellow scholars while studying. 
-
-## Group Information
-  Submitted by:
-  -Mary Hera S. Carmona
-  -Jake Lopez
-  -Isabeau Mithi S. Salibad
+A multi-tool study app designed to help or assist scholars as effeciently as possible.
 
 ## Project Description
   The Multi-Tool Study Assistant App is a command-line Python application designed to help students with everyday academic tasks.
@@ -18,7 +12,7 @@ A multi-tool study assistant designed to help fellow scholars while studying.
 ## Features
 
 1. Unit Converter
-Supports three categories:
+Supports three categories(Units of Measurement):
 -Length Converter
 -Units supported:
 -mm (millimeter)
@@ -71,6 +65,16 @@ Supports three categories:
 -Division
 -Includes protection against division by zero.
 
+## Project Structure
+  Multi-Tool Study Assistant App/
+    CHANGELOG.md
+    Multi-Tool Study Assistant (CS2-AA).py
+    README.md
+
+## Technologies Used
+- Python
+- PyCharm
+- Github
 
 ## How to Run the Program
 
@@ -82,248 +86,183 @@ Supports three categories:
 7. Follow the instructions seen after running the Multi-tool Study Assistant App.
 
 ## Example Output
+Created in PyCharm.
+
 ==== MULTI-TOOL STUDY ASSISTANT APP ====
   -- Tool Categories --
   1. Unit Converter
   2. Timer
   3. To-Do List
-  4. Calculator
+  4. Simple Calculator (Only supports ASMD)
   5. Exit
-Choose a category (1-5): 
+Warning! The To-Do List's contents will be removed unless the app is still running.
+Choose a category (1-4): 
 1
 
 ==========================
   --- Unit Converter ---
   1. Length
-  2. Exit
-Choose a category (1-2): 
+  2. Weight
+  3. Capacity (Ex. Liters)
+  4. Exit
+Choose a category (1-3): 
 1
 Enter the value of your unit:
-1000
+2
+Units:
 
-|mm (millimeter),
-|cm (centimeter),
-|in (inch),
-|ft (foot),
-|yd (yard),
-|m (meter),
-|km (kilometer),
-|mi (mile)
- 
+|mm,
+|cm,
+|in,
+|ft,
+|yd,
+|m,
+|km,
+|mi
+
 From unit:
 cm
-
-|mm (millimeter),
-|cm (centimeter),
-|in (inch),
-|ft (foot),
-|yd (yard),
-|m (meter),
-|km (kilometer),
-|mi (mile)
- 
 To unit:
-yd
+in
 
-1000 cm is 10.936132983377078 yd
-Do you want to use the app again?
- 1. Yes
- 2. No
-1
+2.0 cm is 0.787402 in
+
+Created in PyCharm.
 
 ==== MULTI-TOOL STUDY ASSISTANT APP ====
   -- Tool Categories --
   1. Unit Converter
   2. Timer
   3. To-Do List
-  4. Calculator
+  4. Simple Calculator (Only supports ASMD)
   5. Exit
-Choose a category (1-5):  
+Warning! The To-Do List's contents will be removed unless the app is still running.
+Choose a category (1-4): 
 2
-
- --- Timer ---
-How many hours?
+How long in hours?
 0
-
-How many minutes?
+How long in minutes?
 0
-
-How many seconds?
-40
-Timer ends in 00:00:40 (HH:MM:SS)
-00:00:40
-
-00:00:39
-
-00:00:38
-
-00:00:37
-
-00:00:36
-
-00:00:35
-
-00:00:34
-
-00:00:33
-
-00:00:32
-
-00:00:31
-
-00:00:30
-
-00:00:29
-
-00:00:28
-
-00:00:27
-
-00:00:26
-
-00:00:25
-
-00:00:24
-
-00:00:23
-
-00:00:22
-
-00:00:21
-
-00:00:20
-
-00:00:19
-
-00:00:18
-
-00:00:17
-
-00:00:16
-
-00:00:15
-
-00:00:14
-
-00:00:13
-
-00:00:12
-
-00:00:11
-
-00:00:10
-
-00:00:09
-
-00:00:08
-
-00:00:07
-
-00:00:06
-
-00:00:05
-
-00:00:04
-
-00:00:03
-
-00:00:02
-
-00:00:01
-
+How long in seconds?
+10
+Timer ends in 00:00:10
 
 Time's up!
-Do you want to use the app again?
- 1. Yes
- 2. No
+
+Created in PyCharm.
 
 ==== MULTI-TOOL STUDY ASSISTANT APP ====
   -- Tool Categories --
   1. Unit Converter
   2. Timer
   3. To-Do List
-  4. Calculator
+  4. Simple Calculator (Only supports ASMD)
   5. Exit
-Choose a category (1-5): 
+Warning! The To-Do List's contents will be removed unless the app is still running.
+Choose a category (1-4): 
 3
 
-==========================
-  --- TO-DO LIST ---
+======================
+  --- To-Do List ---
   1. Add Task
   2. View Tasks
-  3. Mark Task as Done
-  4. Delete Task
-  5. Exit
-Choose an option (1-5):
+  3. Remove Task
+  4. Exit
+Choose a category (1-4): 
 1
+Enter a new task: Math HW
+Task 'Math HW' added!
 
-Enter a new task:
-Finish Math Homework
-Task added successfully!
-
---- TO-DO LIST ---
-Choose an option (1-5):
-1
-
-Enter a new task:
-Review Science Notes
-Task added successfully!
-
---- TO-DO LIST ---
-Choose an option (1-5):
+======================
+  --- To-Do List ---
+  1. Add Task
+  2. View Tasks
+  3. Remove Task
+  4. Exit
+Choose a category (1-4): 
 2
+1. Math HW
 
-Your Tasks:
-1. Finish Math Homework - ❌ Not Done
-2. Review Science Notes - ❌ Not Done
-
---- TO-DO LIST ---
-Choose an option (1-5):
+======================
+  --- To-Do List ---
+  1. Add Task
+  2. View Tasks
+  3. Remove Task
+  4. Exit
+Choose a category (1-4): 
 3
+1. Math HW
+Enter the task number to remove: 1
+Removed task: Math HW
 
-Enter task number to mark as done:
-1
-Task marked as done!
+======================
+  --- To-Do List ---
+  1. Add Task
+  2. View Tasks
+  3. Remove Task
+  4. Exit
+Choose a category (1-4): 
+4
 
-Your Tasks:
-1. Finish Math Homework - ✔ Done
-2. Review Science Notes - ❌ Not Done
-
-Do you want to use the app again?
- 1. Yes
- 2. No
+Created in PyCharm.
 
 ==== MULTI-TOOL STUDY ASSISTANT APP ====
   -- Tool Categories --
   1. Unit Converter
   2. Timer
   3. To-Do List
-  4. Calculator
+  4. Simple Calculator (Only supports ASMD)
   5. Exit
-Choose a category (1-5): 
+Warning! The To-Do List's contents will be removed unless the app is still running.
+Choose a category (1-4): 
 4
 
+--- SIMPLE CALCULATOR ---
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Choose an operation (1-5): 1
+Enter first number: 1
+Enter second number: 1
+= 2.0
 
-==========================
-  --- CALCULATOR ---
-  1. Addition
-  2. Subtraction
-  3. Multiplication
-  4. Division
-  5. Exit
-Choose an operation (1-5):
-1
+--- SIMPLE CALCULATOR ---
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Choose an operation (1-5): 2
+Enter first number: 1
+Enter second number: 1
+= 0.0
 
-Enter first number:
-25
-Enter second number:
-15
+--- SIMPLE CALCULATOR ---
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Choose an operation (1-5): 3
+Enter first number: 2
+Enter second number: 2
+= 4.0
 
-Result: 40.0
+--- SIMPLE CALCULATOR ---
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Choose an operation (1-5): 4
+Enter first number: 2
+Enter second number: 2
+= 1.0
 
-Do you want to use the app again?
- 1. Yes
- 2. No
+## References
+
 
 ## Contributors
 - Student 1: Isabeau Mithi Salibad (Debugger and Tester)
