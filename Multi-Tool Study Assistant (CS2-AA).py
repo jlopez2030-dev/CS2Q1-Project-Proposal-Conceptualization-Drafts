@@ -84,7 +84,7 @@ def UserMenu():
         print("\n==== MULTI-TOOL STUDY ASSISTANT APP ====\n  -- Tool Categories --")
         print("  1. Unit Converter\n  2. Timer\n  3. To-Do List\n  4. Simple Calculator (Only supports ASMD)\n  5. Exit")
         print("Warning! The To-Do List's contents will be removed unless the app is still running.")
-        print("Choose a category (1-4): ")
+        print("Choose a category (1-5): ")
 
         try:
             CategoryChoice = int(input())
