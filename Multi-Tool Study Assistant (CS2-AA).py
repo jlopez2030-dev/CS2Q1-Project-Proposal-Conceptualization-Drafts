@@ -96,7 +96,7 @@ def UserMenu():
             print("\n==========================")
             print("  --- Unit Converter ---")
             print("  1. Length\n  2. Weight\n  3. Capacity (Ex. Liters)\n  4. Exit")
-            print("Choose a category (1-3): ")
+            print("Choose a category (1-4): ")
 
             try:
                 UnitCategoryChoice = int(input())
