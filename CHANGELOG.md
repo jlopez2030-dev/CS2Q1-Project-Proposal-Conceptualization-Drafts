@@ -15,8 +15,8 @@ This file lists all the updates made to our Multi-tool Study Assistant App.
   - Convert units into desired units
   - Set up a timer for study
   - Create a to-do list
- ## Version v1.2.0 – December 3, 2025
- - Third version of the app
+ ## Version v1.1.0 – December 3, 2025
+ - Third version of the app and a major update
  - The User can:
   - Convert units into desired units
   - Set up a timer for study
